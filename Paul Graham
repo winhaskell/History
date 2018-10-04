@@ -1,0 +1,24 @@
+Paul Graham
+http://paulgraham.com/lisp.html
+
+What is Lisp?
+
+Lisp is a family of programming languages descended from a language John McCarthy invented (or more accurately, discovered) in
+the late 1950s. The two main dialects now are Common Lisp and Scheme. We're working on a new dialect called Arc.
+
+How can I learn Lisp?
+
+The way to learn any language is to write programs in it. You have two main dialects to choose between: Scheme and Common Lisp. 
+They each have advantages and disadvantages, but the differences between them are tiny compared to the differences between them 
+and other languages, so if you want to start learning Lisp, it doesn't matter which you choose.
+
+There are good books about both dialects, and many good free implementations. So get a book and an implementation, and start 
+trying to write programs. Read existing source code to get an idea of Lisp style. If you run into trouble, ask on comp.lang.lisp. 
+People there are always willing to help newbies.
+
+Which should I learn, Common Lisp or Scheme? What's the difference?
+
+Common Lisp is powerful but ugly. Scheme is small and clean, but the standard only defines the inner core of the language. 
+If I had to deliver an application I'd probably use Common Lisp; if I were teaching a course I might use Scheme 
+(but with Common Lisp macros).
+
