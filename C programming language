@@ -1,0 +1,34 @@
+C语言
+
+C is a general-purpose computer programming language.
+It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential.
+By design, C's features cleanly reflect the capabilities of the targeted CPUs. 
+It has found lasting use in operating systems, device drivers, and protocol stacks, but its use in application software has been decreasing.
+C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems.
+
+A successor to the programming language B, C was originally developed at Bell Labs by Ritchie between 1972 and 1973 to construct utilities running on Unix.
+It was applied to re-implementing the kernel of the Unix operating system. During the 1980s, C gradually gained popularity. 
+It has become one of the most widely used programming languages, with C compilers available for practically all modern computer architectures and operating systems. 
+The book The C Programming Language, co-authored by the original language designer, served for many years as the de facto standard for the language.
+C has been standardized since 1989 by the American National Standards Institute (ANSI) and the International Organization for Standardization (ISO).
+
+C is an imperative procedural language, supporting structured programming, lexical variable scope, and recursion, with a static type system.
+It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, 
+all with minimal runtime support. Despite its low-level capabilities, the language was designed to encourage cross-platform programming. 
+A standards-compliant C program written with portability in mind can be compiled for a wide variety of computer platforms and operating 
+systems with few changes to its source code.
+
+the inventor of the C programming language, Dennis Ritchie with Ken Thompson
+
+
+在1969年，由于AT&T（美国电话电报公司） Bell实验室退出了Multics（MULTiplexed Information and Computing System）项目的研发，
+而导致Dennis Ritchie和Ken Thompson这两位程序员失去了他们的编程环境。
+
+当时这二位使用的是一台由迪吉多生产的PDP-7迷你计算机，这在当时来说也是一种落后的设备，但这也不能阻挡Dennis Ritchie和Ken Thompson对操作系统的研究的痴迷，
+他们共同使用B语言在PDP-7上实现了一个简单的操作系统，名为Unics（UNiplexed Information and Computing System），并于1970年发布第一版，后来Unics缩短了名称变为了Unix。
+
+但B语言在开发系统软件时不够强大，所以1971年共同发明了C语言，且由于Unix系统在Bell实验室的流行使得二人在1973年使用C语言重构了Unix系统，这使得Unix成为了一种通用的操作系统，
+当时Bell实验室的母公司AT&T决定将Unix系统免费提供给大学用于教学和科研项目。
+
+1983年，美国计算机协会将图灵奖授予Dennis和Thompson。
+
